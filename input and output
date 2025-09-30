@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() {
+  int myage;
+  myage=18;
+  printf("%d\n",myage);
+return 0;
+}
