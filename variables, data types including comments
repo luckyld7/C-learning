@@ -1,0 +1,17 @@
+#include <studio.h>
+
+int main() {
+  //create variables
+  int studentage=18;
+  float studentheight=5.4;
+  double studentperc=97.23;//studentpercentile
+  char studentgrade='A';
+  char studentname[]="Lucky";
+  //print variables
+  printf("studentage:%d\n",studentage);
+  printf("studentheight:%f\n", studentheight) ;
+  printf("studentperc:%lf\n",studentperc);
+  printf("studentgrade:%c\n",studentgrade);
+  printf("studentname:%s\n",studentname);
+return 0;
+}
