@@ -1,8 +1,13 @@
 #include <stdio.h>
 
 int main() {
-  int myage;
-  myage=18;
-  printf("%d\n",myage);
+  //create variables
+  int studentage=18;
+  float studentperc=97.22;//student percentile
+  char  studentname='Lucky';
+   //print variables
+  printf("studentage:%d\n",studentage);
+  printf("studentperc:%f\n",studenfperc);
+  printf("studentname:%c\n", studentname);
 return 0;
 }
