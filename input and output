@@ -4,10 +4,12 @@ int main() {
   //create variables
   int studentage=18;
   float studentperc=97.22;//student percentile
-  char  studentname='Lucky';
+  char studentgrade='A';
+  char  studentname[]="Lucky";
    //print variables
   printf("studentage:%d\n",studentage);
-  printf("studentperc:%f\n",studenfperc);
-  printf("studentname:%c\n", studentname);
+  printf("studentperc:%f\n",studentperc);
+  printf("studentgrade:%c\n", studentgrade);
+  printf("studentname:%s\n", studentname);
 return 0;
 }
