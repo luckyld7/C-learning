@@ -13,5 +13,5 @@ int main() {
   printf("studentperc:%lf\n",studentperc);
   printf("studentgrade:%c\n",studentgrade);
   printf("studentname:%s\n",studentname);
-return 0
+return 0;
 }
