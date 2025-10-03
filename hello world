@@ -1,4 +1,4 @@
-#include <stidio.h>
+#include <studio.h>
 
 int main() {
   print("Hello world!");
